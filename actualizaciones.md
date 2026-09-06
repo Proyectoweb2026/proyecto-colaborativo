@@ -14,3 +14,16 @@ Una vez que el usuario ha iniciado su sesión, puede seleccionar la opción de "
 
 Objetivo:
 Permitir que los usuarios conserven su información actualizada de manera fácil y segura, evitando datos obsoletos o inconsistentes en AppConnect.
+
+
+## Campos actualizables
+
+- Nombre completo
+- Correo electrónico
+- Nombre de usuario
+- Contraseña
+- Fecha de última actualización
+
+## Validaciones
+
+El sistema debe verificar que los datos ingresados sean válidos antes de guardar los cambios.
